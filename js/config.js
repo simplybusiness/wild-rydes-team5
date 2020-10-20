@@ -1,7 +1,7 @@
 window._config = {
     cognito: {
-        userPoolId: 'wildrydes-team-a-dev',
-        userPoolClientId: '3qitcsk0qvfn4g27t5ciblns7v',
+        userPoolId: 'eu-west-2_CRWiJPdgW',
+        userPoolClientId: '2v2crmqjiejlkfn82qq9c3sbgk',
         region: 'eu-west-2'
     },
     api: {
